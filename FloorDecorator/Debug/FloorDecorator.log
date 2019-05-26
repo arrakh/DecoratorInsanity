@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  Decorator.cpp
+  FloorCreator.cpp
+  main.cpp
+  Wall.cpp
+  Generating Code...
+Wall.obj : error LNK2019: unresolved external symbol "public: virtual void __thiscall Floor::setMap(int,int,int,char,char)" (?setMap@Floor@@UAEXHHHDD@Z) referenced in function "public: void __thiscall Wall::setMap(void)" (?setMap@Wall@@QAEXXZ)
+D:\Projectss\FloorDecorator\Debug\FloorDecorator.exe : fatal error LNK1120: 1 unresolved externals
